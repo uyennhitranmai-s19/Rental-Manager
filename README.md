@@ -1,4 +1,4 @@
-#Rental Manager  
+## Rental Manager  
 Python Rental Management Application
 
 This is a small **practice project** built with **Python**, focusing on managing rental-related data such as tenants, rooms, contracts, and expenses.  
