@@ -32,9 +32,9 @@ to help my parents manage our rental rooms more easily, without paperwork, confu
 
 ---
 
-## Project Structure
+```## Project Structure
 
-`Rental-Manager/
+Rental-Manager/
 │
 ├── assets/ # Images, icons, resources
 ├── controllers/ # Application logic
@@ -43,7 +43,8 @@ to help my parents manage our rental rooms more easily, without paperwork, confu
 ├── module/ # Feature modules
 ├── utils/ # Shared utilities
 ├── requirements.txt
-└── main.py # Application entry point `
+└── main.py # Application entry point
+```
 
 
 ---
