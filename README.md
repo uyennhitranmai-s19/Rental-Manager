@@ -1,9 +1,13 @@
 ## Rental Manager  
 Python Rental Management Application
 
-This is a small **practice project** built with **Python**, focusing on managing rental-related data such as tenants, rooms, contracts, and expenses.  
-The goal of this project is to practice Python application structure, GUI development, and basic data handling.
+A Simple Web App built with **Python**, focusing on managing rental-related data such as tenants, rooms, contracts, and expenses.  
 
+Rental Manager is a **web application built with Python**, created with a very personal goal:  
+to help my parents manage our rental rooms more easily, without paperwork, confusion, or manual tracking.
+
+
+> This project is both a learning journey and a small gift for my family.
 ---
 
 ## Features
@@ -30,3 +34,40 @@ The goal of this project is to practice Python application structure, GUI develo
 
 ## Project Structure
 
+Rental-Manager/
+│
+├── assets/ # Images, icons, resources
+├── controllers/ # Application logic
+├── dashboard/ # UI & main screens
+├── db/ # Database files
+├── module/ # Feature modules
+├── utils/ # Shared utilities
+├── requirements.txt
+└── main.py # Application entry point
+
+
+---
+
+## How to Use
+
+### Install dependencies
+
+Make sure Python is installed, then run:
+
+```bash
+pip install -r requirements.txt
+
+---
+## Notes
+
+This is a personal and educational project, not a production-ready system.
+
+Built to solve a real-life problem within my family.
+
+The project can be expanded into:
+
+A full-featured web system
+
+Advanced database management
+
+User authentication & role management
