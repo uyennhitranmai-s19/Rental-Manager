@@ -43,7 +43,7 @@ to help my parents manage our rental rooms more easily, without paperwork, confu
 ├── module/ # Feature modules
 ├── utils/ # Shared utilities
 ├── requirements.txt
-└── main.py # Application entry point`
+└── main.py # Application entry point `
 
 
 ---
@@ -60,14 +60,7 @@ Make sure Python is installed, then run:
 
 ## Notes
 
-This is a personal and educational project, not a production-ready system.
+- This is a personal and educational project, not a production-ready system.
 
-Built to solve a real-life problem within my family.
+- Built to solve a real-life problem within my family.
 
-The project can be expanded into:
-
-A full-featured web system
-
-Advanced database management
-
-User authentication & role management
