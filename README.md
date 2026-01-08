@@ -31,8 +31,8 @@ to help my parents manage our rental rooms more easily, without paperwork, confu
 - Other libraries listed in `requirements.txt`
 
 ---
-
-```## Project Structure
+## Project Structure
+```
 
 Rental-Manager/
 │
