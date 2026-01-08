@@ -34,7 +34,7 @@ to help my parents manage our rental rooms more easily, without paperwork, confu
 
 ## Project Structure
 
-Rental-Manager/
+`Rental-Manager/
 │
 ├── assets/ # Images, icons, resources
 ├── controllers/ # Application logic
@@ -43,7 +43,7 @@ Rental-Manager/
 ├── module/ # Feature modules
 ├── utils/ # Shared utilities
 ├── requirements.txt
-└── main.py # Application entry point
+└── main.py # Application entry point`
 
 
 ---
@@ -54,10 +54,10 @@ Rental-Manager/
 
 Make sure Python is installed, then run:
 
-```bash
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ---
+
 ## Notes
 
 This is a personal and educational project, not a production-ready system.
